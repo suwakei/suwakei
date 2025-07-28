@@ -6,5 +6,4 @@ I'm a backend engineer based in Japan, passionate about building scalable system
 - 🚀 Aiming to contribute to [Next.js](https://github.com/vercel/next.js)
 - 🧠 Interested in distributed systems and developer tooling
 
-📫 Reach me at: [Zenn](https://zenn.dev/keitosuwahara))
-
+📫 Reach me at: [Zenn](https://zenn.dev/keitosuwahara)
