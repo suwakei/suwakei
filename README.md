@@ -8,6 +8,7 @@ I'm a backend engineer based in Japan, passionate about building scalable system
   - [Claude-code](https://github.com/anthropics/claude-code/pulls?q=is%3Apr+is%3Aclosed+author%3Asuwakei): AI code assistant utilizing Anthropic's Claude AI (similar example: GitHub Copilot).
   - [ESLint](https://github.com/eslint/eslint/pulls?q=is%3Apr+is%3Aclosed+author%3Asuwakei): Static analysis tool to maintain JavaScript/TypeScript code quality.
   - [Prisma](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3Asuwakei+is%3Aclosed): Next-generation ORM and database toolkit for Node.js & TypeScript that simplifies database access and schema migrations.
+  - [Prettier](https://github.com/prettier/prettier/pulls?q=is%3Apr+is%3Aclosed+author%3Asuwakei): 
 
 - 🚀 Aiming to contribute to [Next.js](https://github.com/vercel/next.js/pulls/suwakei)
 - 🧠 Interested in distributed systems and developer tooling
