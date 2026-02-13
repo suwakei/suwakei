@@ -5,6 +5,7 @@ I'm a backend engineer based in Japan, passionate about building scalable system
 - 🔧 Currently contributing to
   - [Docker Compose](https://github.com/docker/compose/pulls?q=is%3Apr+author%3Asuwakei+is%3Aclosed): A Docker configuration management tool that allows you to define and run multiple container services.
   - [Gin](https://github.com/gin-gonic/gin/pulls?q=is%3Apr+author%3Asuwakei+is%3Aclosed): A fast and lightweight web application framework made of Go.
+  - [Echo](https://github.com/labstack/echo/pulls?q=is%3Apr+author%3Asuwakei+is%3Aclosed): High performance, minimalist Go web framework.
   - [Claude-code](https://github.com/anthropics/claude-code/pulls?q=is%3Apr+is%3Aclosed+author%3Asuwakei): AI code assistant utilizing Anthropic's Claude AI (similar example: GitHub Copilot).
   - [ESLint](https://github.com/eslint/eslint/pulls?q=is%3Apr+is%3Aclosed+author%3Asuwakei): Static analysis tool to maintain JavaScript/TypeScript code quality.
   - [Prisma](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3Asuwakei+is%3Aclosed): Next-generation ORM and database toolkit for Node.js & TypeScript that simplifies database access and schema migrations.
